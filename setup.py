@@ -6,6 +6,7 @@ setup(
     version = "0.1.0",
     description = "when the python developer is sus",
     author = "Flamey",
+    author_email="undisclosed",
     url = "https://github.com/ActuallyFlamey/sussy/",
     download_url = "https://github.com/ActuallyFlamey/sussy/archive/refs/tags/0.1.0.tar.gz"
 )
