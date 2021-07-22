@@ -3,9 +3,9 @@ from distutils.core import setup
 setup(
     name = "sussy",
     packages = ["sussy"],
-    version = "0.1.1",
+    version = "0.1.2",
     description = "when the python developer is sus",
-    long_description="when the impostor is sus\nwhen the suspostor is imp\n\nwhen the python developer is sus\nwhen the susthon developer is py",
+    long_description="when the impostor is sus\n\nwhen the suspostor is imp\n\n\nwhen the python developer is sus\n\nwhen the susthon developer is py",
     author = "Flamey",
     author_email="morellialex08@gmail.com",
     url = "https://github.com/ActuallyFlamey/sussy/",
